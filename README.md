@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mehak👋
 
-<!--
-**mehak-1256765/mehak-1256765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Application Engineer | Full Stack Developer | React.js | TypeScript | Python | n8n | LangChain | RAG
 
-Here are some ideas to get you started:
+I build AI-powered applications and modern web platforms that automate workflows and solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🧠 MeetingMind – AI Meeting Summarizer
+- 📊 Excel Tracker – Task & Progress Tracking System
+- 🤖 AI Daily Digest – Automated AI News Pipeline with n8n
+- ☁️ DevDock – Developer Productivity Platform
+
+## 🛠 Tech Stack
+React • Next.js • TypeScript • Python • Firebase • n8n • Gemini/Mistral API • LangChain
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/mehak-thakur-8594791aa/
+- Email: mehakmanhas19@gmail.com
