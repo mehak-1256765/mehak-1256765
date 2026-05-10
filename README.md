@@ -1,18 +1,27 @@
-# Hi, I'm Mehak👋
+# Hi, I'm Mehak 👋
 
-AI Application Engineer | Full Stack Developer | React.js | TypeScript | Python | n8n | LangChain | RAG
+I'm an AI Application Engineer and Full Stack Developer based in India.
 
-I build AI-powered applications and modern web platforms that automate workflows and solve real-world problems.
+I enjoy building practical applications using React, Next.js, TypeScript, Python, and AI tools such as n8n and LangChain. My recent work focuses on workflow automation, meeting summarization, and productivity tools.
 
-## 🚀 Featured Projects
-- 🧠 MeetingMind – AI Meeting Summarizer
-- 📊 Excel Tracker – Task & Progress Tracking System
-- 🤖 AI Daily Digest – Automated AI News Pipeline with n8n
-- ☁️ DevDock – Developer Productivity Platform
+## What I'm Working On
 
-## 🛠 Tech Stack
-React • Next.js • TypeScript • Python • Firebase • n8n • Gemini/Mistral API • LangChain
+- Building AI-powered applications and automation workflows
+- Learning RAG, vector databases, and LangChain
+- Improving my skills in system design and backend development
 
-## 📫 Connect With Me
+## Featured Projects
+
+- **MeetingMind** – Generates meeting summaries and action items from transcripts
+- **Excel Tracker** – Tracks tasks and progress from uploaded Excel files
+- **AI Daily Digest** – Automated AI news pipeline built with n8n
+- **DevDock** – Developer productivity platform
+
+## Tech Stack
+
+React · Next.js · TypeScript · Node.js · Express · MongoDB · Python · Firebase · n8n · LangChain
+
+## Connect With Me
+
 - LinkedIn: https://www.linkedin.com/in/mehak-thakur-8594791aa/
 - Email: mehakmanhas19@gmail.com
